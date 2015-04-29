@@ -1,0 +1,1 @@
+C:\Apache24\LaravelTest\app/views/posts/index.blade.php
